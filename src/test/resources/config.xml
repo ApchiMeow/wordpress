@@ -3,7 +3,7 @@
     <configuration id="1">
         <url>https://apchimeow.wordpress.com/wp-admin</url>
         <login>angelbeats9632@gmail.com</login>
-        <password>C!FcWWG@XegsF2Z</password>
+        <password>mypass</password>
         <browser>Chrome</browser>
     </configuration>
 </config>
