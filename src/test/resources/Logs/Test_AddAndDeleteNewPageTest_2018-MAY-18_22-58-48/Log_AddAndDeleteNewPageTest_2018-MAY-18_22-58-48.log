@@ -1,0 +1,36 @@
+22:58:50.890 [main] INFO  controls.WebTypifiedElement - Open config file: src\test\resources\config.xml
+22:58:50.934 [main] INFO  controls.WebTypifiedElement - Reading configuration
+22:58:50.935 [main] INFO  controls.WebTypifiedElement - Configuration ID : 1
+22:58:50.936 [main] INFO  controls.WebTypifiedElement - URL : https://apchimeow.wordpress.com/wp-admin
+22:58:50.942 [main] INFO  controls.WebTypifiedElement - Login : angelbeats9632@gmail.com
+22:58:50.944 [main] INFO  controls.WebTypifiedElement - Password : C!FcWWG@XegsF2Z
+22:58:50.944 [main] INFO  controls.WebTypifiedElement - Browser : Chrome
+22:58:54.831 [main] INFO  controls.WebTypifiedElement - Test name: AddAndDeleteNewPageTest
+22:58:54.831 [main] INFO  controls.WebTypifiedElement - Open browser
+22:58:56.069 [main] INFO  controls.WebTypifiedElement - Navigate to: https://apchimeow.wordpress.com/wp-admin
+22:59:07.009 [main] INFO  controls.WebTextInput - Sendkeys for element User Name Input with value:'angelbeats9632@gmail.com'
+22:59:07.576 [main] INFO  controls.WebTextInput - Current value	: angelbeats9632@gmail.com
+Expected value	: angelbeats9632@gmail.com
+22:59:07.645 [main] INFO  controls.WebTypifiedElement - Click on element Submit Btn
+22:59:08.893 [main] INFO  controls.WebTextInput - Sendkeys for element User Pass Input with value:'C!FcWWG@XegsF2Z'
+22:59:09.275 [main] INFO  controls.WebTextInput - Current value	: C!FcWWG@XegsF2Z
+Expected value	: C!FcWWG@XegsF2Z
+22:59:09.315 [main] INFO  controls.WebTypifiedElement - Click on element Submit Btn
+22:59:09.399 [main] INFO  controls.WebTypifiedElement - Element Page Title is displayed
+22:59:14.332 [main] INFO  controls.WebTypifiedElement - Check content coincidence for Page Title
+22:59:14.370 [main] INFO  controls.WebTypifiedElement - Check 2 strings if equals
+1st:Dashboard
+2nd:Dashboard
+22:59:14.370 [main] INFO  controls.WebTypifiedElement - Click on element Pages Lnk
+22:59:16.595 [main] INFO  controls.WebTypifiedElement - Element Page Title is displayed
+22:59:16.639 [main] INFO  controls.WebTypifiedElement - Click on element Add New Page Lnk
+22:59:21.630 [main] INFO  controls.WebTypifiedElement - Element Page Title is displayed
+22:59:21.779 [main] INFO  controls.WebTextInput - Sendkeys for element Post Title Input with value:'OqyuLcNnZW'
+22:59:22.208 [main] INFO  controls.WebTextInput - Current value	: OqyuLcNnZW
+Expected value	: OqyuLcNnZW
+22:59:22.256 [main] INFO  controls.WebTypifiedElement - Click on element Publish Button
+22:59:25.201 [main] INFO  controls.WebTypifiedElement - Click on element Pages Lnk
+22:59:26.497 [main] INFO  controls.WebTypifiedElement - Check if OqyuLcNnZW is in table
+22:59:26.533 [main] INFO  controls.WebTypifiedElement - Page OqyuLcNnZW found
+22:59:28.664 [main] INFO  controls.WebTypifiedElement - Click on element Move To Trash
+22:59:34.282 [main] INFO  controls.WebTypifiedElement - Screenshot name is: Screen_AddAndDeleteNewPageTest_2018-MAY-18_22-58-48
